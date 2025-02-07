@@ -1,0 +1,9 @@
+.
+├── client/                 # React frontend
+│   ├── src/
+│   └── Dockerfile
+├── server/                # Node.js backend
+│   ├── index.js
+│   └── Dockerfile
+├── docker-compose.yml     # Multi-container setup
+└── README.md              # Project documentation
